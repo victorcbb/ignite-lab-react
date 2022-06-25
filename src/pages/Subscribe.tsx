@@ -65,7 +65,7 @@ export function Subscribe() {
         </div>
       </div>
 
-      <img src="../assets/code-mockup.png" alt="Tela com código de programação, com ícone do react e outros ícones voltados a tecnologia" className="mt-10" />
+      <img src="src/assets/code-mockup.png" alt="Tela com código de programação, com ícone do react e outros ícones voltados a tecnologia" className="mt-10" />
     </div>
   )
 }
